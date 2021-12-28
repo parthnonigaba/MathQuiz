@@ -1,0 +1,17 @@
+body
+{
+    background-color: aqua;
+
+}
+.login_div1,.login_div2{
+    background: aquamarine;
+    padding:10px;
+    border-radius: 15px;
+    
+
+}
+#Player1_Name,#Player2_Name
+{
+    display:inline-block;
+    margin-left:20px
+}
